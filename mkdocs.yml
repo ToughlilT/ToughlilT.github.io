@@ -4,4 +4,4 @@ nav:
   - Home: index.md
   - Double Din Fascia install: Double Din Fascia install.md
   - Auto Dimming Mirror + Compass retrofit: Auto Dimming mirror + compass retrofit.md  
-theme: readthedocs
+theme: material
