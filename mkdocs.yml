@@ -1,0 +1,7 @@
+site_name: S3 Guides
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - Double Din Fascia install: Double Din Fascia install.md
+  - Auto Dimming Mirror + Compass retrofit: Auto Dimming mirror + compass retrofit.md  
+theme: readthedocs
